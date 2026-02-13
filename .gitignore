@@ -1,0 +1,15 @@
+#Compiled files from Arduino IDE
+*.hex
+*.elf
+*.ino.*
+*.ino.elf
+HumidityTemperatureDistance.ino.*
+
+#System files
+.Ds_Store
+Thumbs.db
+
+#Temporally IDE
+*.swp
+*.swo
+*.vscode/
