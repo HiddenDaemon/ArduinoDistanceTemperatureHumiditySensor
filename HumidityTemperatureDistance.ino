@@ -1,7 +1,7 @@
 /*
   ARDUINO MULTI-SENSOR DASHBOARD
 
-  Created by: GatherineGod (gatherinegod)
+  Created by: HiddenDaemon
   Last update: february (2026)
 
   Used hardware:
