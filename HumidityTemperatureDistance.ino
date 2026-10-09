@@ -48,7 +48,7 @@ const unsigned long debounceTime = 50; // Time in milliseconds
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 
-// Temporizador para actualizaciones
+// Update the timer
 unsigned long lastUpdate = 0;
 const unsigned long updateTime = 1000;
 
